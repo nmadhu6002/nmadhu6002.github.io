@@ -5,7 +5,7 @@ permalink: /publication/An_Introduction_to_Topological_Combinatorics
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-7-12
 venue: 'Euler Circle'
-slidesurl: 'http://nmadhu6002.github.io/files/Topological_Combinatorics_Slides.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://nmadhu6002.github.io/files/An_Introduction_to_Topological_Combinatorics.pdf'
 citation: 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "No Cloning Theorem"
-excerpt: "[![A mushroom-head robot](http://img.youtube.com/vi/M7mODRwqci4/0.jpg)](https://www.youtube.com/watch?v=M7mODRwqci4)"
+excerpt: "[![No Cloning Theorem](/images/No_Cloning_Theorem.png)](https://www.youtube.com/watch?v=M7mODRwqci4)"
 collection: portfolio
 ---
 

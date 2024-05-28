@@ -10,4 +10,4 @@ paperurl: 'http://nmadhu6002.github.io/files/An_Introduction_to_De_Rham_Cohomolo
 citation: 'Madhukara, N. (2023). &quot;An Introduction to De Rham Cohomology.&quot; <i>Euler Circle</i>.'
 ---
 
-This is an expository paper I wrote at the end of the Differential Topology (Spring 2023) class at Euler Circle.
+This is an expository paper I wrote at the end of the [Differential Topology](https://eulercircle.com/differential-topology/) (Spring 2023) class at Euler Circle.

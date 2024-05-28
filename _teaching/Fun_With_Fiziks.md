@@ -8,10 +8,19 @@ date: 2023-01-01
 location: "San Diego, CA"
 ---
 
-This is a summer program that I created to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program in 2022 and 2023.
+Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023.
 
 Teaching Material
 ======
+
+Experiments/Demonstrations
+------
+* Projectile Laucher
+    * We built a projectile launcher out of a binder, rubber bands, and paper clips. We let the students play with it and understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
+* Spining Chair
+    * One of the instructors held books in each hand and sat on a revolving chair. They started spinning and when they extended their arms, they started spinning slower. This demonstrated conservation of angular momentum to the students.
+* Rolling objects
+    * We organized a competition where we asked students to bring in an object that will roll down a ramp the fastest. The winner would get candy. Some students brought massive objects while other brought large objects. However, when we went through the math together, the students found out that all that matters is the coefficient of the moment of inertia of the object and not the mass or radius of the object. This competition allowed the students to discover this interesting fact and also gain skills in solving torque and rotational motion problems along the.
 
 Slides
 ------
@@ -42,7 +51,9 @@ Problems
 * Work and Energy
     * [Problems](http://nmadhu6002.github.io/files/Work_and_Energy_Problems.pdf)
     * [Key](http://nmadhu6002.github.io/files/Work_and_Energy_Problems_Key.pdf)
-* [Momentum](http://nmadhu6002.github.io/files/Momentum_Problems.pdf)
+* Momentum
+    * [Problems](http://nmadhu6002.github.io/files/Momentum_Problems.pdf)
+    * [Key](http://nmadhu6002.github.io/files/Momentum_Problems_Key.pdf)
 * Rotational Motion
     * [Problems 1](http://nmadhu6002.github.io/files/Rotation_problems.pdf)
     * [Problems 2](http://nmadhu6002.github.io/files/More_Rotation_Problems.pdf)

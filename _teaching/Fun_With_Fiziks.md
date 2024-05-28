@@ -13,10 +13,10 @@ Fun With Fiziks is a summer program that I founded to introduce physics to young
 Teaching Material
 ======
 
-Experiments/Demonstrations
+Experiments / Demonstrations
 ------
 * Projectile Laucher
-    * We built a projectile launcher out of a binder, rubber bands, and paper clips. We let the students play with it and understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
+    * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair
     * One of the instructors held books in each hand and sat on a revolving chair. They started spinning and when they extended their arms, they started spinning slower. This demonstrated conservation of angular momentum to the students.
 * Rolling objects

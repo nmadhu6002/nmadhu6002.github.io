@@ -1,9 +1,9 @@
 ---
 title: "Fun With Fiziks"
 collection: teaching
-type: "Workshops"
+type: "Workshop"
 permalink: /teaching/Fun_With_Fiziks
-# venue: "Hamilton Education"
+venue: "San Diego"
 date: 2023-01-01
 location: "San Diego, CA"
 ---

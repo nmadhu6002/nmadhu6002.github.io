@@ -1,7 +1,7 @@
 ---
 title: "San Diego Math Circle (SDMC)"
 collection: teaching
-type: "Lectures"
+type: "Lecture"
 permalink: /teaching/San_Diego_Math_Circle
 venue: "University of California San Diego"
 date: 2024-01-01

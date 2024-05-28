@@ -1,6 +1,6 @@
 ---
 title: "No Cloning Theorem"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "[![A mushroom-head robot](/images/500x300.png)](https://codecademy.com)"
 collection: portfolio
 ---
 

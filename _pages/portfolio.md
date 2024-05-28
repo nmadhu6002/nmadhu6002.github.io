@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Blender
-======
+Blender ![Blender Logo](./images/Blender_Logo.png)
+------
 
 Breakthrough Junior Challenge
-======
+------
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}

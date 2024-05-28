@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "No Cloning Theorem"
+excerpt: "<a href="http://www.youtube.com/watch?feature=player_embedded&v=M7mODRwqci4
+" target="_blank"><img src="http://img.youtube.com/vi/M7mODRwqci4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>"
 collection: portfolio
 ---
 

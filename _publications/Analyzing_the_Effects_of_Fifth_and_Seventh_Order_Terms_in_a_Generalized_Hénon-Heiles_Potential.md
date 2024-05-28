@@ -2,7 +2,7 @@
 title: "Analyzing the Effects of Fifth and Seventh Order Terms in a Generalized Hénon-Heiles Potential"
 collection: publications
 permalink: /publication/Analyzing_the_Effects_of_Fifth_and_Seventh_Order_Terms_in_a_Generalized_Hénon-Heiles_Potential
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 
 date: 2023-9-07
 venue: 'arXiv'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

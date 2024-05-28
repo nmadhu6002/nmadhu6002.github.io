@@ -3,8 +3,8 @@ title: "Fun With Fiziks"
 collection: teaching
 type: "Workshops"
 permalink: /teaching/Fun_With_Fiziks
-venue: "Hamilton Education"
-date: 2022-01-01, 2023-01-01
+# venue: "Hamilton Education"
+date: 2023-01-01
 location: "San Diego, CA"
 ---
 
@@ -14,6 +14,7 @@ Teaching Material
 ======
 
 Slides
+------
 * [Kinematics](http://nmadhu6002.github.io/files/Kinematics_Slides.pdf)
 * [Forces](http://nmadhu6002.github.io/files/Forces_Slides.pdf)
 * [Work & Energy](http://nmadhu6002.github.io/files/Work_and_Energy_Slides.pdf)
@@ -22,11 +23,13 @@ Slides
 * [Rotational Motion](http://nmadhu6002.github.io/files/Rotation_Slides.pdf)
 
 Handouts
+------
 * [Energy and Momentum](http://nmadhu6002.github.io/files/Energy_and_Momentum_Handout.pdf)
 * [Simple Harmonic Motion](http://nmadhu6002.github.io/files/Simple_Harmonic_Motion_Handout.pdf)
 * [Fluids](http://nmadhu6002.github.io/files/Fluids_Handout.pdf)
 
 Problems
+------
 * Kinematics
     * [Problems](http://nmadhu6002.github.io/files/Kinematics_Problems.pdf)
     * [Key](http://nmadhu6002.github.io/files/Kinematics_Problems_Key.pdf)

@@ -7,14 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Blender
-------
-{% for post in site.blender %}
-  {% include archive-single.html %}
-{% endfor %}
+## Blender
 
-Breakthrough Junior Challenge
-------
+### Satisfying Pendulums
+<p align="center">
+<video src="/images/Pendulum.mp4" controls="controls" style="max-width: 600px;" autoplay loop muted>
+</video>
+</p>
+
+## Breakthrough Junior Challenge
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}

@@ -9,10 +9,9 @@ author_profile: true
 
 Blender
 ------
-<p align="center">
-<video src="/images/Pendulum.mp4" controls="controls" style="max-width: 750px;" autoplay loop muted>
-</video>
-</p>
+{% for post in site.blender %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Breakthrough Junior Challenge
 ------

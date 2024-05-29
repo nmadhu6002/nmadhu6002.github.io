@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Blender ![Blender Logo](/images/Blender_Logo.png)
+Blender
 ------
-![Satisfying Pendulum](/images/Pendulum.mp4)
+<!-- ![Satisfying Pendulum](/images/Pendulum.mp4) -->
+<video src="/images/Pendulum.mp4">
+</video>
 
 Breakthrough Junior Challenge
 ------

@@ -9,9 +9,10 @@ author_profile: true
 
 Blender
 ------
-<!-- ![Satisfying Pendulum](/images/Pendulum.mp4) -->
-<video src="/images/Pendulum.mp4" controls="controls" style="max-width: 730px;">
+<p align="center">
+<video src="/images/Pendulum.mp4" controls="controls" style="max-width: 750px;">
 </video>
+</p>
 
 Breakthrough Junior Challenge
 ------

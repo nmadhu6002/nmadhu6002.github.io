@@ -4,6 +4,4 @@ collection: coursework
 permalink: /coursework/Euler_Circle
 ---
 
-Testing
-
-Testing2
+&nbsp;.

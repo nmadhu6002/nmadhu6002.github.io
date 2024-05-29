@@ -9,11 +9,26 @@ author_profile: true
 
 ## Blender
 
+### Donuts
+<p align="center">
+<video src="/images/Donuts.mp4" controls="controls" style="max-width: 600px;" autoplay loop muted>
+</video>
+</p>
+
 ### Satisfying Pendulums
 <p align="center">
 <video src="/images/Pendulum.mp4" controls="controls" style="max-width: 600px;" autoplay loop muted>
 </video>
 </p>
+
+### Motion Tracking
+<p align="center">
+<video src="/images/MotionTracking_Monkey.mp4" controls="controls" style="max-width: 600px;" autoplay loop muted>
+</video>
+</p>
+
+### SciFi Modeling
+![SciFi Tool](/images/SciFi_Tool.png)
 
 ## Breakthrough Junior Challenge
 {% for post in site.portfolio %}

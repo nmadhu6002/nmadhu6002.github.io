@@ -31,7 +31,6 @@ author_profile: true
 <p align="center">
 <img src='/images/SciFi_Tool.png' style="max-width: 650px;">
 </p>
-![SciFi Tool](/images/SciFi_Tool.png)
 
 ## Breakthrough Junior Challenge
 {% for post in site.portfolio %}

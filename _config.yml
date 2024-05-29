@@ -200,6 +200,9 @@ kramdown:
 
 # Collections
 collections:
+  coursework:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _coursework
+  - scope:
+      path: ""
+      type: coursework
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""

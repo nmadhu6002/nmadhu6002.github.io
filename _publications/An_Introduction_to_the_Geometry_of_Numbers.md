@@ -3,7 +3,7 @@ title: "An Introduction to the Geometry of Numbers"
 collection: publications
 permalink: /publication/An_Introduction_to_the_Geometry_of_Numbers
 # excerpt: 
-date: 2023-12-6
+date: 2023-8-6
 venue: 'Euler Circle'
 slidesurl: # 'http://nmadhu6002.github.io/files/De_Rham_Cohomology_Slides.pdf'
 paperurl: 'http://nmadhu6002.github.io/files/An_Introduction_to_the_Geometry_of_Numbers.pdf'

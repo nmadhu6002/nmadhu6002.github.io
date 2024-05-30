@@ -4,7 +4,7 @@ collection: coursework
 permalink: /coursework/ucsd
 ---
 
-I have taken math classes at UCSD
+I have taken advanced math classes at UCSD.
 
 ## Classes
 * Math 120A Elements of Complex Analysis (Ming Xiao, Winter 2023) - Grade: A

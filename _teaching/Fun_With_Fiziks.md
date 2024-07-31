@@ -10,11 +10,18 @@ location: "San Diego, CA"
 
 Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India.
 
+[Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6)
+======
+
 Teaching Material
 ======
 
 Experiments / Demonstrations
 ------
+* Newton's Gravity Defying Puzzle
+<p align="center">
+<img src='/images/Newton.png' style="max-width: 650px;">
+</p>
 * Projectile Laucher
     * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair
@@ -58,6 +65,3 @@ Problems
     * [Problems 1](http://nmadhu6002.github.io/files/Rotation_problems.pdf)
     * [Problems 2](http://nmadhu6002.github.io/files/More_Rotation_Problems.pdf)
 * [Review](http://nmadhu6002.github.io/files/Review_Problems.pdf)
-
-[Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6)
-======

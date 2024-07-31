@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "San Diego, CA"
 ---
 
-Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023.
+Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India.
 
 Teaching Material
 ======
@@ -58,3 +58,6 @@ Problems
     * [Problems 1](http://nmadhu6002.github.io/files/Rotation_problems.pdf)
     * [Problems 2](http://nmadhu6002.github.io/files/More_Rotation_Problems.pdf)
 * [Review](http://nmadhu6002.github.io/files/Review_Problems.pdf)
+
+[Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6)
+======

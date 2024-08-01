@@ -22,7 +22,7 @@ Experiments / Demonstrations
 <p align="center">
 <img src='/images/Newton.png' style="max-width: 550px;">
 </p>
-    * This is a puzzle I found where the goal is to remove the red piece out of the brown piece, but the catch is that you are not allowed to touch the brown piece. The obvious solution is to try to pinch the red piece and lift it; however the top of the red piece is angled such that the piece just slips out of your hands. Therefore, the more efficient way to solve this puzzle is to blow at the top. Because of Bernoulli's principle, there's an upwards force. This is a great demonstration to show how principles of physics can be used to your advantage.
+This is a puzzle I found where the goal is to remove the red piece out of the brown piece, but the catch is that you are not allowed to touch the brown piece. The obvious solution is to try to pinch the red piece and lift it; however the top of the red piece is angled such that the piece just slips out of your hands. Therefore, the more efficient way to solve this puzzle is to blow at the top. Because of Bernoulli's principle, there's an upwards force. This is a great demonstration to show how principles of physics can be used to your advantage.
 * Projectile Laucher
     * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair

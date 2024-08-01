@@ -8,10 +8,7 @@ date: 2023-01-01
 location: "San Diego, CA"
 ---
 
-Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India.
-
-[Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6)
-======
+Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India. [Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6)
 
 Teaching Material
 ======
@@ -19,11 +16,15 @@ Teaching Material
 Experiments / Demonstrations
 ------
 * Newton's Gravity Defying Puzzle
-
     <p align="center">
-    <img src='/images/Newton.png' style="max-width: 400px;">
+    <img src='/images/Newton.png' style="max-width: 350px;">
     </p>
-    * This is a puzzle I found where the goal is to remove the red piece out of the brown piece, but the catch is that you are not allowed to touch the brown piece. The obvious solution is to try to pinch the red piece and lift it; however the top of the red piece is angled such that the piece just slips out of your hands. Therefore, the more efficient way to solve this puzzle is to blow at the top. Because of Bernoulli's principle, there's an upwards force. This is a great demonstration to show how principles of physics can be used to your advantage.
+    * This is a puzzle I found where the goal is to remove the red piece out of the brown piece, but the catch is that you are not allowed to touch the brown piece. The naive solution is to try to pinch the red piece and lift it; however the top of the red piece is angled such that the piece just slips out of your hands. Therefore, the more efficient way to solve this puzzle is to blow at the top. Because of Bernoulli's principle, there's an upwards force. This is a great demonstration to introduce how Bernoulli's principe works and how principles from physics can be used to your advantage.
+* Marble Canoe Puzzle
+    <p align="center">
+    <img src='/images/Canoe.jpg' style="max-width: 350px;">
+    </p>
+    * This is another puzzle whose solution requires a principle from physics. The goal is to get the two marbles to the opposite ends of the canoe. However, because the unique shape, after bringing one marble to one side by tilting the puzzle, tilting the puzzle in the other direction to bring the other marble causes the original marble to fall back to the center. Therefore, it is exteremely difficult (basically impossible) to get the two marbles to opposite ends just by tilting the puzzle. Now the solution to this puzzle is to spin the whole puzzle so that the centrifugal force pushes both marbles outwards. This is a great way to improve students' creative problem solving skills and also show how rotating objects feel an outward centrifugal force.
 * Projectile Laucher
     * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair

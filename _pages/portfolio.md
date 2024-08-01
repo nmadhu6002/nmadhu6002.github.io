@@ -33,7 +33,7 @@ author_profile: true
 </p>
 
 ## Breakthrough Junior Challenge
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

@@ -1,5 +1,6 @@
 ---
 title: "Buffon's Needle Problem"
+date: 2022-6-25
 excerpt: "[![Buffon's Needle Problem](/images/Buffon's_Needle_Problem.jpg)](https://www.youtube.com/watch?v=gaIf284_W4o)"
 collection: portfolio
 ---

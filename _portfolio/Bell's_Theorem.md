@@ -1,5 +1,6 @@
 ---
 title: "Bell's Theorem"
+date: 2023-6-25
 excerpt: "[![Bell's Theorem](/images/Bell's_Theorem.jpg)](https://www.youtube.com/watch?v=OU-ZYBw2cnA)"
 collection: portfolio
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Maxwell's Demon and Entropy"
+date: 2021-6-25
 excerpt: "[![Maxwell's Demon and Entropy](/images/Maxwell's_Demon.jpg)](https://www.youtube.com/watch?v=11_aHTdNITc)"
 collection: portfolio
 ---

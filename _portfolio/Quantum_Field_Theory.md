@@ -1,6 +1,6 @@
 ---
 title: "Quantum Field Theory"
-date: 2024
+date: 2024-6-25
 excerpt: "[![Bell's Theorem](/images/Quantum_Field_Theory.jpg)](https://youtu.be/FvW63Q7T_X4)"
 collection: portfolio
 ---

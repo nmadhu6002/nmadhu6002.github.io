@@ -1,5 +1,6 @@
 ---
 title: "No Cloning Theorem"
+date: 2020-6-25
 excerpt: "[![No Cloning Theorem](/images/No_Cloning_Theorem.jpg)](https://www.youtube.com/watch?v=M7mODRwqci4)"
 collection: portfolio
 ---

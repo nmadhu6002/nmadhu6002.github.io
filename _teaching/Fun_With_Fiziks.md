@@ -24,7 +24,12 @@ Experiments / Demonstrations
     <p align="center">
     <img src='/images/Canoe.jpg' style="max-width: 350px;">
     </p>
-    * This is another puzzle whose solution requires a principle from physics. The goal is to get the two marbles to the opposite ends of the canoe. However, because the unique shape, after bringing one marble to one side by tilting the puzzle, tilting the puzzle in the other direction to bring the other marble causes the original marble to fall back to the center. Therefore, it is exteremely difficult (basically impossible) to get the two marbles to opposite ends just by tilting the puzzle. Now the solution to this puzzle is to spin the whole puzzle so that the centrifugal force pushes both marbles outwards. This is a great way to improve students' creative problem solving skills and also show how rotating objects feel an outward centrifugal force.
+    * This is another puzzle whose solution requires a principle from physics. The goal is to get the two marbles to the opposite ends of the canoe. However, because the unique shape, after bringing one marble to one side by tilting the puzzle, tilting the puzzle in the other direction to bring the other marble causes the original marble to fall back to the center. Therefore, it is exteremely difficult (basically impossible) to get the two marbles to opposite ends just by tilting the puzzle. Now the solution to this puzzle is to spin the whole puzzle so that the centrifugal force pushes both marbles outwards. Physics-wise, this is a great way to show how rotating objects feel an outward centrifugal force, but this is also great in improving students' creative problem solving skills.
+* Strength of Atmospheric Pressure
+    <p align="center">
+    <img src='/images/Air_Pressure.jpg' style="max-width: 350px;">
+    </p>
+    * This is a very counterintuitive experiment where the water doesn't fall out of the cup even though it's upside down. This shows students how strong air pressure is, but it also demonstrates how humans don't feel this strength since the air pressure around us cancels itself out.
 * Projectile Laucher
     * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair

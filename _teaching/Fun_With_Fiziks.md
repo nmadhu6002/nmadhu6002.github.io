@@ -44,12 +44,6 @@ Experiments / Demonstrations
     <img src='/images/Generator.jpg' style="max-width: 400px;">
     </p>
     * I created this electricity generator where students were able to shake a magnet back and forth through a coil of wire and see how this lit up an LED. This helped them gain intuition on how a changing magnetic field can generate a current.
-<!-- * Self-Starting Siphon
-
-    <p align="center">
-    <img src='/images/self-starting-siphon.jpg' style="max-width: 400px;">
-    </p>
-    * This is a experiment where water starts flowing out of a straw just by placing the straw in the water. This is a great counterintuitve experiment to help students gain intuition about water and air pressure. -->
 * Projectile Laucher
     * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair

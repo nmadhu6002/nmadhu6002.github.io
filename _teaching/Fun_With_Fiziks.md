@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "San Diego, CA"
 ---
 
-Fun With Fiziks is a summer program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program with the help of my school's physics club in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India. ([Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6))
+Fun With Fiziks is a program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program, with some help from my school's physics club, in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India. ([Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6))
 
 Teaching Material
 ======
@@ -20,23 +20,40 @@ Experiments / Demonstrations
     <p align="center">
     <img src='/images/Newton.png' style="max-width: 350px;">
     </p>
-    * This is a puzzle I found where the goal is to remove the red piece out of the brown piece, but the catch is that you are not allowed to touch the brown piece. The naive solution is to try to pinch the red piece and lift it; however the top of the red piece is angled such that the piece just slips out of your hands. Therefore, the more efficient way to solve this puzzle is to blow at the top. Because of Bernoulli's principle, there's an upwards force. This is a great demonstration to introduce how Bernoulli's principe works and how principles from physics can be used to your advantage.
+    * This is a puzzle where the goal is to remove the red piece out of the brown piece, but the catch is that you are not allowed to touch the brown piece. The naive solution that most students first tried was to try to pinch the red piece and lift it; however the top of the red piece was angled such that the piece just slipped out of their hands. Now after the students learned about Bernoulli's principle, they realized that the more efficient way to solve this puzzle is to blow at the top.
 * Marble Canoe Puzzle
 
     <p align="center">
     <img src='/images/Canoe.jpg' style="max-width: 350px;">
     </p>
-    * This is another puzzle whose solution requires a principle from physics. The goal is to get the two marbles to the opposite ends of the canoe. However, because the unique shape, after bringing one marble to one side by tilting the puzzle, tilting the puzzle in the other direction to bring the other marble causes the original marble to fall back to the center. Therefore, it is exteremely difficult (basically impossible) to get the two marbles to opposite ends just by tilting the puzzle. Now the solution to this puzzle is to spin the whole puzzle so that the centrifugal force pushes both marbles outwards. Physics-wise, this is a great way to show how rotating objects feel an outward centrifugal force, but this is also great in improving students' creative problem solving skills.
+    * This is another puzzle whose solution requires a principle from physics. The goal is to get the two marbles to the opposite ends of the canoe. However, because the unique shape, after students brought one marble to one side by tilting the puzzle, tilting the puzzle in the other direction to bring the other marble caused the original marble to fall back to the center. Therefore, it was exteremely difficult (basically impossible) for the students to get the two marbles to opposite ends just by tilting the puzzle. Similar to Newton's Gravity Defying Puzzle, there was a physics concept behind the solution -- in this case, it was centrifugal force. After learning about circular motion, the students were able figure out that spinning the whole puzzle pushed the balls outward.
 * Strength of Atmospheric Pressure
 
     <p align="center">
     <img src='/images/Air_Pressure.jpg' style="max-width: 400px;">
     </p>
-    * This is a very counterintuitive experiment where the water doesn't fall out of the cup even though it's upside down. This shows students how strong air pressure is, but it also demonstrates how humans don't feel this strength since the air pressure around us cancels itself out.
+    * This is a very counterintuitive demonstration where the water doesn't fall out of the cup even though it's upside down. This showed students how strong air pressure is, but it also demonstrated how humans don't feel this strength since the air pressure around us cancels itself out.
+
+    <p align="center">
+    <img src='/images/newspaper.jpg' style="max-width: 400px;">
+    </p>
+    * This is another way to show the strength of air pressure. The setup is that when the ruler is placed under a newspaper and struck hard, the newspaper doesn't fly off and sometimes the ruler even breaks. This is an unexpected result that showed students how uneven air pressure can generate a large force.
+* Electricity Generator
+
+    <p align="center">
+    <img src='/images/Generator.jpg' style="max-width: 400px;">
+    </p>
+    * I created this electricity generator where students were able to shake a magnet back and forth through a coil of wire and see how this lit up an LED. This helped them gain intuition on how a changing magnetic field can generate a current.
+<!-- * Self-Starting Siphon
+
+    <p align="center">
+    <img src='/images/self-starting-siphon.jpg' style="max-width: 400px;">
+    </p>
+    * This is a experiment where water starts flowing out of a straw just by placing the straw in the water. This is a great counterintuitve experiment to help students gain intuition about water and air pressure. -->
 * Projectile Laucher
     * We built a projectile launcher out of a binder, rubber bands, and paper clips, and let the students play with it. This helped them understand how the velocity and angle of the projectile launcher affected different quantities like the maximum height or the range.
 * Spining Chair
-    * One of the instructors held books in each hand and sat on a revolving chair. They started spinning and when they extended their arms, they started spinning slower. This demonstrated conservation of angular momentum to the students.
+    * One of the instructors held books in each hand and sat on a revolving chair. They started spinning and when they extended their arms, they started spinning slower. This was a fun way to demonstrate conservation of angular momentum to the students.
 * Rolling objects
     * We organized a competition where we asked students to bring in an object that will roll down a ramp the fastest. The winner would get candy. Some students brought massive objects while other brought large objects. However, when we went through the math together, the students found out that all that matters is the coefficient of the moment of inertia of the object and not the mass or radius of the object. This competition allowed the students to discover this interesting fact and also gain skills in solving torque and rotational motion problems along the.
 

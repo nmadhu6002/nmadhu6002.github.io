@@ -1,7 +1,7 @@
 ---
 title: "Linear Error-Correcting Codes"
-collection: publications
-permalink: /publication/An_Introduction_to_De_Rham_Cohomology
+collection: expository
+permalink: /expository/An_Introduction_to_De_Rham_Cohomology
 # excerpt: 
 date: 2023-3-15
 venue: 'Euler Circle'

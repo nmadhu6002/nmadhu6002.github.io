@@ -1,7 +1,7 @@
 ---
 title: "Hyperbolic 3-Manifolds and Their Constructions"
-collection: publications
-permalink: /publication/Hyperbolic_3-Manifolds_and_Their_Constructions
+collection: expository
+permalink: /expository/Hyperbolic_3-Manifolds_and_Their_Constructions
 # excerpt: 
 date: 2022-7-12
 venue: 'Euler Circle'

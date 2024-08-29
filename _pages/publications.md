@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Expository Papers
+
+{% for post in site.expository reversed %}
+  {% include archive-single.html %}
+{% endfor %}

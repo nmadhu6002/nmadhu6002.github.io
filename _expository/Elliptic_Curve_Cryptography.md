@@ -1,7 +1,7 @@
 ---
 title: "Elliptic Curve Cryptography"
-collection: publications
-permalink: /publication/Elliptic_Curve_Cryptography
+collection: expository
+permalink: /expository/Elliptic_Curve_Cryptography
 # excerpt: 
 date: 2022-12-22
 venue: 'A Math Summer Program for High School Students'

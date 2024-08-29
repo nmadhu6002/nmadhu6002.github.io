@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Topological Combinatorics"
-collection: publications
-permalink: /publication/An_Introduction_to_Topological_Combinatorics
+collection: expository
+permalink: /expository/An_Introduction_to_Topological_Combinatorics
 # excerpt: 
 date: 2021-7-15
 venue: 'Euler Circle'

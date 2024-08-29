@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to the Geometry of Numbers"
-collection: publications
-permalink: /publication/An_Introduction_to_the_Geometry_of_Numbers
+collection: expository
+permalink: /expository/An_Introduction_to_the_Geometry_of_Numbers
 # excerpt: 
 date: 2023-8-6
 venue: 'Euler Circle'

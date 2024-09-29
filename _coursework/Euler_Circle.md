@@ -8,7 +8,7 @@ permalink: /coursework/euler_circle
 
 ## Classes
 * Number Theory
-* Differential Topology
+* Differential Topology ([Psets](http://nmadhu6002.github.io/files/Differential_Topology_Solutions.pdf))
 * Gems of Linear Algebra
 * Fundamentals of Higher Mathematics
     * Linear algebra and basic abstract algebra

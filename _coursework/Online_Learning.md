@@ -4,11 +4,12 @@ collection: coursework
 permalink: /coursework/online_learning
 ---
 
-The two main platforms I have used to take courses online are [MITx](https://mitxonline.mit.edu/) and [edX](https://www.edx.org/).
+The main platforms I have used to take courses online are [MITx](https://mitxonline.mit.edu/), [Stanford ULO](https://ulo.stanford.edu/) and [edX](https://www.edx.org/).
 
 ## MITx
 * 8.01x (Classical Mechanics)
 * 8.05x (Mastering Quantum Mechanics)
+* 8.06x (Applications of Quantum Mechanics)
 * 24.10x (Problems of Philosophy)
 
 ## edX
@@ -16,6 +17,6 @@ The two main platforms I have used to take courses online are [MITx](https://mit
 * MIT 6.00.2 (Introduction To Computational Thinking And Data Science)
 * Harvard Calculus Applied
 
-## Stanford University Level Online courses
-* Light and Heat
-* Modern Physics
+## Stanford University Level Online Courses
+* Light and Heat (XP645)
+* Modern Physics (XP670)

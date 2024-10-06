@@ -3,8 +3,8 @@ title: "Fun With Fiziks"
 collection: teaching
 type: "Summer Camp"
 permalink: /teaching/Fun_With_Fiziks
-venue: "San Diego, Channamgere"
-date: 2023-01-01
+# venue: "San Diego, Channamgere"
+# date: 2023-01-01
 location: "San Diego, CA"
 ---
 

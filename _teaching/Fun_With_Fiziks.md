@@ -1,14 +1,14 @@
 ---
 title: "Fun With Fiziks"
 collection: teaching
-type: "Workshop"
+type: "Summer Camp"
 permalink: /teaching/Fun_With_Fiziks
-venue: "San Diego"
+venue: "San Diego, Channamgere"
 date: 2023-01-01
 location: "San Diego, CA"
 ---
 
-Fun With Fiziks is a program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program, with some help from my school's physics club, in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India called Channamgere Middle School. ([Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6))
+Fun With Fiziks is a program that I founded to introduce physics to younger students through interactive experiments and demonstrations. I noticed there are not a lot of programs to get young students excited about physics, so I wanted to create this program to fill this gap. I ran this program, with some help from my school's physics club, in 2022 and 2023. In 2024, I was able to expand Fun With Fiziks to an impoverished school in India named Channamgere Middle School. ([Photos](https://photos.app.goo.gl/5F2aewBoU65ziX9R6))
 
 Teaching Material
 ======

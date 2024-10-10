@@ -1,6 +1,6 @@
 ---
 title: "Fun With Fiziks"
-collection: teaching
+collection: publications
 type: "Summer Camp"
 permalink: /teaching/Fun_With_Fiziks
 # venue: "San Diego, Channamgere"

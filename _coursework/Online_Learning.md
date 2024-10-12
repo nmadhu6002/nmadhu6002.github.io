@@ -16,6 +16,6 @@ The main platforms I have used to take courses online are [MITx](https://mitxonl
 ## HarvardX
 * CalcAPL1x (Calculus Applied!) \[[Certificate](http://nmadhu6002.github.io/files/Harvardx_CalcAPL1x_Certificate.pdf)\]
 
-## Stanford University Level Online Courses
+## Stanford Pre-Collegiate University-Level Online Math & Physics
 * Light and Heat (XP645)
 * Modern Physics (XP670)

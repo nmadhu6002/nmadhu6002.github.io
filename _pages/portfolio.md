@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## [Words for Light (Movie Reviews)](https://nandanamadhukara.blogspot.com/)
+<!-- ## [Words for Light (Movie Reviews)](https://nandanamadhukara.blogspot.com/) -->
 
 ## Blender
 

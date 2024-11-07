@@ -19,11 +19,16 @@ This is a simulation I created where I matched up the phase of the pendulums and
 </p>
 
 ### Lorentz Transformation
-As you may know, Albert Einstein's special theory of relativity predicts that for an inertial observer, moving objects contract, known as Lorentz contraction. Here I wanted to see how an object contracted as the object accelerated.
+As you may know, Albert Einstein's special theory of relativity predicts that for an inertial observer, moving objects contract, known as Lorentz contraction. Here I wanted to see how an object contracted as it accelerated.
 <p align="center">
 <video src="/images/Lorentz_Transformation.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
 </video>
 </p>
+
+(Click on the image to get directed to the video)
+{% for post in site.portfolio2 reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <!-- ### Donuts
 <p align="center">

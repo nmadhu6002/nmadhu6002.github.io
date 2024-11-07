@@ -12,12 +12,14 @@ author_profile: true
 ## Blender
 
 ### Satisfying Pendulums
+This is a simulation I created where I matched up the phase of the pendulums and ring.
 <p align="center">
 <video src="/images/Pendulum.mp4" controls="controls" style="max-width: 600px;" autoplay loop muted>
 </video>
 </p>
 
 ### Lorentz Transformation
+As you may know, Albert Einstein's special theory of relativity predicts that for an inertial observer, moving objects contract, known as Lorentz contraction. Here I wanted to see how an object contracted as the object accelerated.
 <p align="center">
 <video src="/images/Lorentz_Transformation.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
 </video>
@@ -41,6 +43,7 @@ author_profile: true
 </p> -->
 
 ## Breakthrough Junior Challenge
+(Click on the image to get directed to the video)
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}

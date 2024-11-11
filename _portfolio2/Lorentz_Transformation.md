@@ -1,5 +1,5 @@
 ---
-title: "Bell's Theorem"
+title: "Lorentz Transformation"
 excerpt: "<p align="center">
 <video src="/images/Lorentz_Transformation.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
 </video>

@@ -1,9 +1,10 @@
 ---
 title: "Lorentz Transformation"
-excerpt: "<p align="center">
-<video src="/images/Lorentz_Transformation.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
-</video>
-</p>"
+# excerpt: "<p align="center">
+# <video src="/images/Lorentz_Transformation.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
+# </video>
+# </p>"
+excerpt: "[![Bell's Theorem](/images/Bell's_Theorem.jpg)](https://www.youtube.com/watch?v=OU-ZYBw2cnA)"
 collection: portfolio2
 ---
 

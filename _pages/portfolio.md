@@ -29,23 +29,6 @@ As you may know, Albert Einstein's special theory of relativity predicts that fo
   {% include archive-single.html %}
 {% endfor %} -->
 
-<!-- ### Donuts
-<p align="center">
-<video src="/images/Donuts.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
-</video>
-</p> -->
-
-<!-- ### Motion Tracking
-<p align="center">
-<video src="/images/MotionTracking_Monkey.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
-</video>
-</p> -->
-
-<!-- ### SciFi Modeling
-<p align="center">
-<img src='/images/SciFi_Tool.png' style="max-width: 650px;">
-</p> -->
-
 ## Breakthrough Junior Challenge
 (Click on the image to get directed to the video)
 {% for post in site.portfolio reversed %}

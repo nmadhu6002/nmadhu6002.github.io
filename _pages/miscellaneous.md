@@ -2,9 +2,6 @@
 layout: archive
 title: "Miscellaneous"
 permalink: /miscellaneous/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -17,7 +14,7 @@ redirect_from:
 <p align="center">
 <video src="/images/Donuts.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>
 </video>
-</p> -->
+</p>
 
 ### Motion Tracking
 <p align="center">

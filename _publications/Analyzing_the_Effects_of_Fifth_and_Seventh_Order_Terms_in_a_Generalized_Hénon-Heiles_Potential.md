@@ -6,7 +6,7 @@ permalink: /publication/Analyzing_the_Effects_of_Fifth_and_Seventh_Order_Terms_i
 date: 2024-8-16
 venue: 'Applications and Applied Mathematics: An International Journal'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://nmadhu6002.github.io/files/Analyzing_the_Effects_of_Fifth_and_Seventh_Order_Terms_in_a_Generalized_Hénon-Heiles_Potential.pdf'
+paperurl: 'http://nmadhu6002.github.io/files/AAM_Paper.pdf'
 citation: 'Madhukara, Nandana (2024). (R2078) Analyzing the Effects of Fifth and Seventh Order Terms in a Generalized Henon-Heiles Potential, Applications and Applied Mathematics: An International Journal (AAM), Vol. 19, Iss. 2, Article 3.'
 ---
 

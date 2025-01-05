@@ -16,6 +16,13 @@ permalink: /miscellaneous/
 </video>
 </p>
 
+### Satisfying Pendulums
+This is a simulation I created where I matched up the phase of the pendulums and ring.
+<p align="center">
+<video src="/images/Pendulum.mp4" controls="controls" style="max-width: 600px;" autoplay loop muted>
+</video>
+</p>
+
 ### Motion Tracking
 <p align="center">
 <video src="/images/MotionTracking_Monkey.mp4" controls="controls" style="max-width: 800px;" autoplay loop muted>

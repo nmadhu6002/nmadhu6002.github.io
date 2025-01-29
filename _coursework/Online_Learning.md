@@ -18,4 +18,4 @@ The main platforms I have used to take courses online are [MITx](https://mitxonl
 
 ## Stanford Pre-Collegiate University-Level Online Math & Physics
 * Light and Heat (XP645) - Grade: A
-* Modern Physics (XP670)
+* Modern Physics (XP670) - Grade: A

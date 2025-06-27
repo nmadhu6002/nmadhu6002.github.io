@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My main area of research is physics, and I am currently pursuing two projects.
+# High School
 
 ## Membrane Mechanics
 
